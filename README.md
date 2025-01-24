@@ -40,4 +40,4 @@ A simple and efficient Point of Sale frontend application built with Next.js 14,
 
 
 ## Live 
-Check out the live deployed app on Vercel: (https://pos-ekzpjz7m7-xplorers-projects.vercel.app/)
+Check out the live deployed app on Vercel: (https://pos-app-wine.vercel.app/)
