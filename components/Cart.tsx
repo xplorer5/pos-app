@@ -5,8 +5,6 @@ import { useRouter } from "next/navigation";
 import Image from "next/image";
 import { PRODUCTS } from "@/constants";
 import CheckoutForm from "./CheckoutForm";
-import { Receipt } from './Receipt';
-
 interface CartItem {
   id: number;
   name: string;
