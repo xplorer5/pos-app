@@ -39,5 +39,5 @@ A simple and efficient Point of Sale frontend application built with Next.js 14,
 - React Text Generation for card details
 
 
-## Live Demo
-Check out the live demo deployed on Vercel: [POS App Demo](https://pos-app-nextjs.vercel.app)
+## Live 
+Check out the live deployed app on Vercel: (https://pos-ekzpjz7m7-xplorers-projects.vercel.app/)
